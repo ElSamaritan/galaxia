@@ -275,11 +275,11 @@ application.
 
 * Download Galaxia with command:
 
-	`git clone https://github.com/ElSamaritan/galaxia
+	`  git clone https://github.com/ElSamaritan/galaxia.git ` 
 	
 * Change branch to last Release:
 
-	`cd galaxia
+	`cd galaxia` 
 
 * Activate and update submodules:
 
